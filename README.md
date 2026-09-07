@@ -7,7 +7,7 @@
 ## 🔧 Skills
 - **Web Development**: PHP, Laravel, Filament, JavaScript, CSS  
 - **Data Analysis**: Python, SQL, Excel, Power BI  
-- **Soft Skills**: Komunikasi, Kerja Tim, Manajemen Waktu  
+- **Soft Skills**: Komunikasi, Kerja Tim, Manajemen Waktu, Problem Solving 
 
 ## 🌱 About Me
 Saya mampu bekerja secara individu maupun tim, memiliki komunikasi yang baik, serta semangat tinggi untuk terus belajar dan berkembang.  
