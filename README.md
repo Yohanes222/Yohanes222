@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Johanes Rafael 👋
 
-<!--
-**Yohanes222/Yohanes222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Lulusan **Teknologi Informasi** dengan minat besar pada **Web Development** dan **Data Analysis**.  
+💻 Berpengalaman dalam membangun aplikasi web menggunakan **PHP, Laravel, dan Filament**.  
+📊 Terbiasa mengolah dan menganalisis data dengan **Python, SQL, dan Power BI** untuk menghasilkan insight yang bermanfaat.  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Web Development**: PHP, Laravel, Filament, JavaScript, CSS  
+- **Data Analysis**: Python, SQL, Excel, Power BI  
+- **Soft Skills**: Komunikasi, Kerja Tim, Manajemen Waktu  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+Saya mampu bekerja secara individu maupun tim, memiliki komunikasi yang baik, serta semangat tinggi untuk terus belajar dan berkembang.  
+Dengan kombinasi keterampilan teknis dan soft skills, saya siap berkontribusi dalam pengembangan solusi teknologi maupun analisis data yang mendukung perusahaan.  
+
+---
+✨ *Always learning, always growing.*
